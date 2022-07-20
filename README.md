@@ -1,10 +1,10 @@
 # AudioTech
 
-[[ADUDIO] Audio Effects Theory, Implementation and Application](https://github.com/miasolChan/AudioTech/blob/main/%5BADUDIO%5D%20Audio%20Effects%20Theory%2C%20Implementation%20and%20Application.pdf)
+[[AUDIO] Audio Effects Theory, Implementation and Application](https://github.com/miasolChan/AudioTech/blob/main/%5BADUDIO%5D%20Audio%20Effects%20Theory%2C%20Implementation%20and%20Application.pdf)
 
-[[ADUDIO] audio-programming](https://github.com/miasolChan/AudioTech/blob/main/%5BADUDIO%5D%20audio-programming.pdf)
+[[AUDIO] audio-programming](https://github.com/miasolChan/AudioTech/blob/main/%5BADUDIO%5D%20audio-programming.pdf)
 
-[[ADUDIO] DAFX Digital Audio Effect 2nd-edition](https://github.com/miasolChan/AudioTech/blob/main/%5BADUDIO%5D%20DAFX%20Digital%20Audio%20Effect%202nd-edition.pdf)
+[[AUDIO] DAFX Digital Audio Effect 2nd-edition](https://github.com/miasolChan/AudioTech/blob/main/%5BADUDIO%5D%20DAFX%20Digital%20Audio%20Effect%202nd-edition.pdf)
 
 [[GAME] Guy Somberg - Game Audio Programming 2](https://github.com/miasolChan/AudioTech/blob/main/%5BGAME%5D%20Guy%20Somberg%20-%20Game%20Audio%20Programming%202.pdf)
 
