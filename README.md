@@ -21,3 +21,5 @@
 [The Audio Programming Book](./The_Audio_Programming_Book.pdf)
 
 [Unreal Engine 4.x Scripting with C++ Cookbook](./Unreal_Engine_4.x_Scripting_with_C++_Cookbook.pdf)
+
+[The Game Audio Strategy Guide A Practical Course](./The Game Audio Strategy Guide A Practical Course.pdf)
