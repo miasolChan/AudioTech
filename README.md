@@ -24,5 +24,5 @@
 
 [The Game Audio Strategy Guide A Practical Course](./The_Game_Audio_Strategy_Guide_A_Practical_Course.pdf)
 
-
+[Designing Sound](./Designing_Sound_Andy_Farnell.pdf)
 
